@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/harryke254/Itchy.V.1.git/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}Cfg/rclone.conf"
